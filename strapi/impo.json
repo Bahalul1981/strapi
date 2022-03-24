@@ -1,0 +1,42 @@
+    
+    
+[
+
+    { "amin":{
+            "FirstName":"Ahmed",
+            "LastName":"Dawn Amin",
+            "Age":38,
+            "Education":"It develope",
+            "Profetion":"Software developer",
+            "Mobile number":"09839038423480",
+            "email":"sdahkja@yeiuy.com",
+            "img":"/shoma.jpg"
+        
+        }
+    },
+    { "amin":{
+            "FirstName":"Yasmin",
+            "LastName":"Farhana",
+            "Age":32,
+            "Education":"Teacher",
+            "Profetion":"Teacher",
+            "Mobile number":"098390383232",
+            "email":"farhana@yahoo.vom",
+            "img":"/amin.jpg"
+            }   
+    },
+    { "amin":{
+            "FirstName":"Odhim",
+            "LastName":"Dawn",
+            "Age":1,
+            "Education":"Dagis",
+            "Profetion":"Stay with parants",
+            "Mobile number":"Have not yet",
+            "email":"lskldsja@ytroy.com",
+            "img":"/amin.jpg"
+            
+        }
+    }
+    
+    
+]

@@ -1,0 +1,15 @@
+
+.family{
+    text-align: center;
+    font-size: 3rem;
+    background-color: rgba(62, 80, 74, 0.336);
+}
+.info{
+    height: auto;
+    width: 100%;
+    background-color: rgba(99, 96, 71, 0.493);
+    text-align: center;
+}
+#infolist{
+    color: rgb(28, 110, 46);
+}
